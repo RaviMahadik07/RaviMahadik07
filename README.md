@@ -1,12 +1,16 @@
 <div align="center">
 
-  <!-- Dynamic Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25&height=230&section=header&text=Ravi%20Mahadik&fontSize=44&fontAlignY=36&desc=Senior%20DevOps%20%26%20Cloud%20Platform%20Engineer%20%7C%2013%2B%20Years%20Total%20%E2%80%A2%205%2B%20Years%20DevOps&descFontSize=19&descAlignY=62&fontColor=ffffff" width="100%" alt="Ravi Mahadik Header Banner" />
+  <!-- High-Definition Custom SVG Header Banner (Native & Bulletproof) -->
+  <img src="./assets/banner.svg" width="100%" alt="Ravi Mahadik - Senior DevOps &amp; Cloud Platform Engineer" />
+
+  <br/><br/>
 
   <!-- Dynamic Typing Tagline -->
   <a href="https://github.com/RaviMahadik07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=820&lines=Senior+DevOps+%26+Cloud+Platform+Engineer+(5%2B+Yrs+DevOps+%7C+13%2B+Yrs+IT);Architecting+Resilient+Azure+Cloud+Infrastructure+%26+Landing+Zones;Production-Grade+Kubernetes+(AKS)+%26+Docker+Microservices;Modular+Terraform+IaC+%7C+Zero+Manual+Configuration;Enterprise+CI%2FCD+Pipelines+(Azure+DevOps+%26+GitHub+Actions);Automating+Enterprise+Systems+with+PowerShell%2C+Bash+%26+Python" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=760&lines=Senior+DevOps+%26+Cloud+Platform+Engineer;13%2B+Years+Enterprise+IT+%7C+5%2B+Years+DevOps;Architecting+Resilient+Azure+Cloud+Infrastructure;Modular+Terraform+IaC+%7C+Zero+Manual+Configuration;Production+Kubernetes+(AKS)+%26+Docker+Microservices;Automating+Everything+with+PowerShell%2C+Bash+%26+Python" alt="Animated Typing Tagline" />
   </a>
+
+  <br/>
 
   <br/>
 

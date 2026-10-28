@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070C18" />
+      <stop offset="40%" stop-color="#0B1C38" />
+      <stop offset="75%" stop-color="#042759" />
+      <stop offset="100%" stop-color="#004E98" />
+    </linearGradient>
+
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00D2FF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#844FBA" stop-opacity="0.8" />
+    </linearGradient>
+
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#E2F1FF" />
+      <stop offset="100%" stop-color="#70C5FF" />
+    </linearGradient>
+
+    <linearGradient id="pillGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0078D4" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#00C853" stop-opacity="0.25" />
+    </linearGradient>
+
+    <!-- Drop Shadows & Glow -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 46px;
+      letter-spacing: 2px;
+      fill: url(#titleGradient);
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 21px;
+      letter-spacing: 1.5px;
+      fill: #00D2FF;
+    }
+    .pill-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-weight: 600;
+      font-size: 14px;
+      fill: #A8FFD3;
+      letter-spacing: 0.5px;
+    }
+    .terminal-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-size: 13px;
+      fill: #7B8BA5;
+    }
+    .tech-pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #E1E8F5;
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="996" height="276" rx="16" fill="url(#bgGradient)" stroke="url(#borderGradient)" stroke-width="2" />
+
+  <!-- Subtle Cyber Tech Grid Accent -->
+  <g opacity="0.06" stroke="#FFFFFF" stroke-width="1">
+    <line x1="0" y1="56" x2="1000" y2="56" />
+    <line x1="0" y1="112" x2="1000" y2="112" />
+    <line x1="0" y1="168" x2="1000" y2="168" />
+    <line x1="0" y1="224" x2="1000" y2="224" />
+    <line x1="125" y1="0" x2="125" y2="280" />
+    <line x1="250" y1="0" x2="250" y2="280" />
+    <line x1="375" y1="0" x2="375" y2="280" />
+    <line x1="500" y1="0" x2="500" y2="280" />
+    <line x1="625" y1="0" x2="625" y2="280" />
+    <line x1="750" y1="0" x2="750" y2="280" />
+    <line x1="875" y1="0" x2="875" y2="280" />
+  </g>
+
+  <!-- Terminal Header Bar -->
+  <circle cx="32" cy="30" r="6" fill="#FF5F56" />
+  <circle cx="52" cy="30" r="6" fill="#FFBD2E" />
+  <circle cx="72" cy="30" r="6" fill="#27C93F" />
+  <text x="96" y="35" class="terminal-text">ravi-mahadik@production: ~ (cloud-devops-platform)</text>
+
+  <!-- Main Title -->
+  <text x="500" y="105" text-anchor="middle" class="title" filter="url(#glow)">RAVI MAHADIK</text>
+
+  <!-- Subtitle -->
+  <text x="500" y="145" text-anchor="middle" class="subtitle">SENIOR DEVOPS &amp; CLOUD PLATFORM ENGINEER</text>
+
+  <!-- Highlight Experience Pill -->
+  <g transform="translate(230, 168)">
+    <rect x="0" y="0" width="540" height="34" rx="17" fill="url(#pillGradient)" stroke="#00D2FF" stroke-width="1.2" stroke-opacity="0.6" />
+    <text x="270" y="22" text-anchor="middle" class="pill-text">⚡ 13+ YEARS ENTERPRISE IT  •  5+ YEARS CLOUD &amp; DEVOPS ⚡</text>
+  </g>
+
+  <!-- Tech Focus Badges Bar -->
+  <g transform="translate(110, 222)">
+    <!-- Azure -->
+    <rect x="0" y="0" width="135" height="30" rx="15" fill="#0078D4" fill-opacity="0.25" stroke="#0078D4" stroke-width="1" />
+    <text x="67" y="20" text-anchor="middle" class="tech-pill-text">☁️ Azure Cloud</text>
+
+    <!-- Terraform -->
+    <rect x="155" y="0" width="135" height="30" rx="15" fill="#844FBA" fill-opacity="0.25" stroke="#844FBA" stroke-width="1" />
+    <text x="222" y="20" text-anchor="middle" class="tech-pill-text">🏗️ Terraform IaC</text>
+
+    <!-- Kubernetes -->
+    <rect x="310" y="0" width="155" height="30" rx="15" fill="#326CE5" fill-opacity="0.25" stroke="#326CE5" stroke-width="1" />
+    <text x="387" y="20" text-anchor="middle" class="tech-pill-text">☸️ Kubernetes (AKS)</text>
+
+    <!-- CI/CD -->
+    <rect x="485" y="0" width="145" height="30" rx="15" fill="#0078D7" fill-opacity="0.25" stroke="#0078D7" stroke-width="1" />
+    <text x="557" y="20" text-anchor="middle" class="tech-pill-text">🚀 CI/CD Pipelines</text>
+
+    <!-- SysAdmin -->
+    <rect x="650" y="0" width="130" height="30" rx="15" fill="#00C853" fill-opacity="0.25" stroke="#00C853" stroke-width="1" />
+    <text x="715" y="20" text-anchor="middle" class="tech-pill-text">🛡️ SRE &amp; 99.9% SLA</text>
+  </g>
+</svg>
