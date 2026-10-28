@@ -1,36 +1,36 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25&height=220&section=header&text=Ravi%20Mahadik&fontSize=44&fontAlignY=38&desc=Senior%20System%20Administrator%20%E2%9E%94%20DevOps%20%26%20Cloud%20Engineer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Ravi Mahadik Header" />
+  <!-- Dynamic Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,25&height=220&section=header&text=Ravi%20Mahadik&fontSize=44&fontAlignY=38&desc=Senior%20System%20Administrator%20%E2%9E%94%20DevOps%20%26%20Cloud%20Engineer&descFontSize=20&descAlignY=62&fontColor=ffffff" width="100%" alt="Ravi Mahadik Header Banner" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Dynamic Typing Tagline -->
   <a href="https://github.com/RaviMahadik07">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=Senior+SysAdmin+➔+DevOps+Engineer;Azure+Cloud+Infrastructure+%26+Landing+Zones;Terraform+IaC+Automations+%7C+Zero+Manual+Effort;Enterprise+CI%2FCD+Pipelines+(Azure+DevOps+%26+GitHub+Actions);Docker+Containerization+%26+Kubernetes+(AKS)+Orchestration;Automating+Everything+with+PowerShell%2C+Bash+%26+Python" alt="Animated Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=780&lines=Senior+SysAdmin+➔+DevOps+%26+Cloud+Platform+Engineer;Architecting+Resilient+Azure+Cloud+Infrastructure;Modular+Terraform+IaC+%7C+Zero+Manual+Configuration;Enterprise+CI%2FCD+Pipelines+(Azure+DevOps+%26+GitHub+Actions);Docker+Containers+%26+Kubernetes+(AKS)+Orchestration;Automating+Everything+with+PowerShell%2C+Bash+%26+Python" alt="Animated Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Profile Status & Social Badges -->
+  <!-- Profile Badges & Quick Links -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=RaviMahadik07&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://linkedin.com/in/ravi-mahadik" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:ravi.mahadik07@gmail.com">
       <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <img src="https://img.shields.io/badge/Status-Open%20To%20DevOps%20Opportunities-success?style=for-the-badge" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Open%20To%20DevOps%20Opportunities-00C853?style=for-the-badge" alt="Status" />
   </p>
 
-  <!-- Quick Nav -->
+  <!-- Navigation Bar -->
   <p align="center">
-    <a href="#-about-me">About Me</a> •
-    <a href="#-the-sysadmin--devops-advantage">The SysAdmin Advantage</a> •
-    <a href="#-tech-stack--tools">Tech Stack</a> •
-    <a href="#-featured-devops-projects">Projects</a> •
-    <a href="#-certifications--learning-path">Certifications</a> •
-    <a href="#-github-trophies--analytics">Analytics</a> •
-    <a href="#-get-in-touch">Contact</a>
+    <a href="#-about-me"><b>About Me</b></a> •
+    <a href="#-the-sysadmin--devops-advantage"><b>The Advantage</b></a> •
+    <a href="#-core-tech-stack"><b>Tech Stack</b></a> •
+    <a href="#-featured-devops-projects"><b>Projects</b></a> •
+    <a href="#-certifications--roadmap"><b>Certifications</b></a> •
+    <a href="#-github-stats--analytics"><b>Analytics</b></a> •
+    <a href="#-connect--collaborate"><b>Contact</b></a>
   </p>
 
 </div>
@@ -39,79 +39,106 @@
 
 ### 👨‍💻 About Me
 
-Experienced **Senior System Administrator** with rich expertise in managing mission-critical enterprise systems, networking topologies, and virtualized data centers — actively scaling into modern **Cloud & DevOps Engineering**.
+Experienced **Senior System Administrator** with extensive enterprise background in mission-critical infrastructure, hybrid networking, and virtualized data centers — actively scaling into modern **Cloud Architecture & DevOps Engineering**.
 
-Having spent years diagnosing complex server failures, designing disaster recovery strategies, and maintaining 99.9%+ enterprise SLAs, I bring a **deep operational perspective** that traditional developers rarely possess. I pair this with modern **Infrastructure as Code (Terraform)**, container orchestration (**Docker & Kubernetes**), and automated **CI/CD delivery pipelines** on **Microsoft Azure**.
+Having managed complex enterprise servers, diagnosed high-pressure production failures, and maintained strict **99.9%+ SLAs**, I bring a **deep operational foundation** that bridges the gap between infrastructure and application development. I combine this with modern **Infrastructure as Code (Terraform)**, container orchestration (**Docker & Kubernetes/AKS**), and automated **CI/CD pipelines** on **Microsoft Azure**.
 
-- 🔭 **Current Focus**: Architecting enterprise-grade Azure landing zones, automating Terraform state management, and GitOps workflows.
-- ⚙️ **Philosophy**: *"If you have to do it more than twice, automate it as code."*
-- 🎯 **Career Objective**: Driving reliability, security (DevSecOps), and rapid delivery as a **DevOps / Cloud Platform Engineer**.
-- 💡 **Open For**: DevOps Engineer, Cloud Engineer, Site Reliability, and Infrastructure Automation roles.
+- 🔭 **Current Focus**: Architecting enterprise-grade Azure landing zones, reusable Terraform modules, and secure GitOps workflows.
+- ⚙️ **Engineering Philosophy**: *"If a task has to be performed more than twice, automate it as code."*
+- 🎯 **Career Goal**: Driving scalability, DevSecOps compliance, and zero-downtime releases as a **Cloud & DevOps Platform Engineer**.
+- 💡 **Open For**: DevOps Engineer, Cloud Platform Engineer, Site Reliability, and Systems Automation roles.
 
 ---
 
 ### 🛡️ The SysAdmin ➔ DevOps Advantage
 
-Why hiring an experienced System Administrator transitioning into DevOps delivers massive ROI:
+Why hiring an experienced Systems Administrator transitioning into DevOps delivers massive ROI:
 
 ```
-┌─────────────────────────────────┐     ┌───────────────────────────────────┐
-│     Systems Administration      │     │        Modern DevOps & IaC        │
-├─────────────────────────────────┤     ├───────────────────────────────────┤
-│ • Deep OS Internals (Linux/Win) │     │ • Modular Terraform IaC           │
-│ • Networking: DNS, CIDR, VPNs   │  +  │ • Multi-Stage CI/CD Automation    │  = Production-Grade DevOps
-│ • High Availability & SLAs      │     │ • Containerization (Docker/AKS)   │
-│ • Production Incident Triaging  │     │ • DevSecOps & Zero-Trust Security │
-└─────────────────────────────────┘     └───────────────────────────────────┘
+┌────────────────────────────────────────┐       ┌────────────────────────────────────────┐
+│     Systems Administration Mastery     │       │       Modern DevOps & Cloud IaC        │
+├────────────────────────────────────────┤       ├────────────────────────────────────────┤
+│ • Deep OS Internals (Linux & Windows)  │       │ • Modular Terraform IaC Automation     │
+│ • Hybrid Networking: DNS, CIDR, VPNs   │   +   │ • Multi-Stage CI/CD Release Pipelines  │  = Production-Ready DevOps
+│ • Enterprise Disaster Recovery & SLAs  │       │ • Docker Containerization & AKS        │
+│ • Live Production Incident Triaging    │       │ • DevSecOps & Zero-Trust Architecture  │
+└────────────────────────────────────────┘       └────────────────────────────────────────┘
 ```
 
-- **Zero Fragility**: I understand how software runs on bare metal and hypervisors, avoiding naive cloud configurations that trigger expensive outages.
-- **Root-Cause Mastery**: Instant isolation of bottlenecks (CPU throttling, memory leaks, I/O saturation, network MTU, firewall rules) rather than guessing.
-- **Production-First Mindset**: Automated backups, monitoring, rolling zero-downtime deployments, and immutable infrastructure built-in from day one.
+| Trait | Traditional Developer | SysAdmin-Backed DevOps Engineer (Me) |
+| :--- | :--- | :--- |
+| **Infrastructure Understanding** | Focuses on app code; treats infra as black-box | Understands kernel limits, I/O bottlenecks, network MTU, and virtualization layers |
+| **Troubleshooting Speed** | Trial-and-error debugging in cloud consoles | Methodical root-cause analysis using logs, telemetry, socket stats, and traces |
+| **Disaster Preparedness** | Assumes cloud never fails | Designs for failure: automated backups, multi-zone failover, and state locking |
+| **Cost Optimization** | Over-provisions compute and memory | Right-sizes infrastructure and applies auto-scaling policies to curb cloud spend |
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Tech Stack
 
 <div align="center">
 
-#### ☁️ Cloud & Infrastructure as Code (IaC)
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Azure_Resource_Manager-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ARM" />
-  <img src="https://img.shields.io/badge/Linux_(Ubuntu%2FRHEL)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Server" />
-</p>
+  <!-- Interactive Skill Icons Grid -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,terraform,kubernetes,docker,githubactions,ansible,linux,powershell,bash,python,git,grafana,prometheus" alt="Ravi's Tech Skills Icons" />
+  </a>
 
-#### 🐳 Containerization & Orchestration
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Azure_Kubernetes_Service_(AKS)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="AKS" />
-  <img src="https://img.shields.io/badge/Helm_Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-  <img src="https://img.shields.io/badge/Container_Registry_(ACR)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="ACR" />
-</p>
+  <br/><br/>
 
-#### 🚀 CI/CD & Automation
-<p>
-  <img src="https://img.shields.io/badge/Azure_DevOps_Pipelines-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-#### 📈 Observability, Security & Collaboration
-<p>
-  <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Monitor" />
-  <img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Log Analytics" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Jira_Software-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
+  <!-- Categorized Detailed Badges -->
+  <table>
+    <tr>
+      <td width="25%" align="center"><b>☁️ Cloud & IaC</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
+        <img src="https://img.shields.io/badge/ARM_Templates-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bicep-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><b>🐳 Containers & Orchestration</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure_Kubernetes_Service_(AKS)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Helm_Charts-0F1689?style=flat-square&logo=helm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure_Container_Registry_(ACR)-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><b>🚀 CI/CD & Automation</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Azure_DevOps_Pipelines-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><b>🖥️ Systems & Networking</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux_(Ubuntu%2FRHEL)-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D6?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/DNS%2FVPN%2FTCP_IP-0078D4?style=flat-square&logo=cisco&logoColor=white" />
+        <img src="https://img.shields.io/badge/VMware%2FHyper--V-607078?style=flat-square&logo=vmware&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center"><b>📊 Observability & Security</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Azure_Monitor-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Log_Analytics-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Trivy_Scanner-002B49?style=flat-square&logo=aquasec&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -119,89 +146,120 @@ Why hiring an experienced System Administrator transitioning into DevOps deliver
 
 ### 📂 Featured DevOps Projects
 
-<details open>
-<summary><b>1. 🌐 Production-Grade Azure Hub-Spoke Landing Zone (Terraform)</b></summary>
-<br/>
-
-- **Problem**: Manual Azure resource provisioning caused environment drift and security inconsistencies across dev, staging, and production.
-- **Solution**: Engineered modular Terraform code implementing Azure Hub-Spoke network topology with Azure Firewall, VPN Gateway, Peering, Subnets, and NSG rules with remote backend state in Azure Blob Storage with state locking.
-- **Tech Stack**: `Terraform` `Azure Cloud` `Hub-Spoke Topology` `Remote State`
-- **Repository**: [👉 Explore Code & Documentation](https://github.com/RaviMahadik07)
-</details>
-
-<details open>
-<summary><b>2. ⚡ End-to-End Azure DevOps CI/CD Pipeline with Docker & Security Scans</b></summary>
-<br/>
-
-- **Problem**: Slow release cycles and unverified container deployments prone to security vulnerabilities.
-- **Solution**: Built multi-stage YAML pipelines in Azure DevOps. Automates unit tests, Docker build, Trivy container security vulnerability scanning, pushes to Azure Container Registry (ACR), and executes blue/green deployments to Azure App Service / AKS.
-- **Tech Stack**: `Azure DevOps` `Docker` `CI/CD Pipelines` `Cloud Automation`
-- **Repository**: [👉 Explore Code & Documentation](https://github.com/RaviMahadik07/AzureDevops)
-</details>
-
-<details open>
-<summary><b>3. ☸️ Enterprise Kubernetes (AKS) Microservices Deployment with Helm</b></summary>
-<br/>
-
-- **Problem**: Microservices scaling and dynamic configuration management challenges in containerized environments.
-- **Solution**: Deployed microservices on Azure Kubernetes Service (AKS) utilizing custom Helm charts, NGINX Ingress controller, Horizontal Pod Autoscaling (HPA), and integration with Azure Key Vault via Secrets Store CSI Driver.
-- **Tech Stack**: `Kubernetes` `AKS` `Helm` `NGINX Ingress` `Key Vault CSI`
-- **Repository**: [👉 Explore Code & Documentation](https://github.com/RaviMahadik07)
-</details>
-
-<details open>
-<summary><b>4. 🛡️ Systems Automation & Tech Hub Toolkit</b></summary>
-<br/>
-- **Problem**: Repetitive server configurations, manual system administration tasks, and lack of centralized automation scripts.
-- **Solution**: Centralized engineering and automation repository containing reusable PowerShell, Bash, and Python scripts for enterprise system administration, server compliance, and infrastructure automation.
-- **Tech Stack**: `PowerShell` `Bash` `Python` `System Administration`
-- **Repository**: [👉 Explore Code & Documentation](https://github.com/RaviMahadik07/Tech_hub)
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Azure Hub-Spoke Landing Zone (Terraform)</h3>
+      <p>Modular Infrastructure as Code (IaC) establishing a secure enterprise multi-tier architecture on Azure.</p>
+      <ul>
+        <li><b>Architecture</b>: Central Hub VNet with Azure Firewall, VPN Gateway, connected to Workload Spoke VNets via VNet Peering.</li>
+        <li><b>State Management</b>: Remote Azure Blob Storage backend with state locking via Azure Blob lease.</li>
+        <li><b>Security</b>: Network Security Groups (NSGs), route tables (UDRs), and private endpoints.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-Networking-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+      </p>
+      <a href="https://github.com/RaviMahadik07"><b>👉 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Azure DevOps Multi-Stage CI/CD Pipeline</h3>
+      <p>Production release automation with security scanning, container builds, and deployment gates.</p>
+      <ul>
+        <li><b>Continuous Integration</b>: Automated testing, Docker image packaging, and Trivy security scanning.</li>
+        <li><b>Container Registry</b>: Versioned artifacts pushed to Azure Container Registry (ACR).</li>
+        <li><b>Continuous Delivery</b>: Blue/green deployments to Azure App Service and AKS with approval gates.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Azure_DevOps-Pipelines-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+      <a href="https://github.com/RaviMahadik07/AzureDevops"><b>👉 View Repository</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☸️ Enterprise Kubernetes (AKS) Microservices</h3>
+      <p>Resilient microservices orchestration on Azure Kubernetes Service with enterprise ingress and secrets.</p>
+      <ul>
+        <li><b>Packaging & Helm</b>: Modular Helm charts with parameter-driven values for dev, stage, and prod.</li>
+        <li><b>Traffic Management</b>: NGINX Ingress Controller with automated TLS/SSL certificate management.</li>
+        <li><b>Security & Secrets</b>: Integration with Azure Key Vault via Secrets Store CSI Driver.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Kubernetes-AKS-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Helm-Charts-0F1689?style=flat-square&logo=helm&logoColor=white" />
+      </p>
+      <a href="https://github.com/RaviMahadik07"><b>👉 View Repository</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ Enterprise Systems Automation Toolkit (Tech Hub)</h3>
+      <p>Centralized automation toolkit developed from real-world enterprise system administration experience.</p>
+      <ul>
+        <li><b>Windows & Active Directory</b>: PowerShell automations for bulk onboarding, health audits, and patching.</li>
+        <li><b>Linux Server Hardening</b>: Bash scripts for CIS benchmark hardening, firewall rules, and cron maintenance.</li>
+        <li><b>Monitoring & Health Checks</b>: Python and shell scripts that monitor system health and alert on anomalies.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell-Automation-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </p>
+      <a href="https://github.com/RaviMahadik07/Tech_hub"><b>👉 View Repository</b></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📜 Certifications & Learning Roadmap
+### 📜 Certifications & Roadmap
 
-- [x] **AZ-900**: Microsoft Certified: Azure Fundamentals
-- [x] **Enterprise Systems Administration**: 5+ Years Hands-on Enterprise Operations
-- [ ] **AZ-104**: Microsoft Certified: Azure Administrator Associate *(In Progress)*
-- [ ] **HashiCorp Certified**: Terraform Associate (003) *(In Progress)*
-- [ ] **AZ-400**: Microsoft Certified: Designing and Implementing Microsoft DevOps Solutions
-- [ ] **CKA**: Certified Kubernetes Administrator
+| Certification / Milestone | Status | Organization |
+| :--- | :---: | :--- |
+| **Microsoft Certified: Azure Fundamentals (AZ-900)** | ✅ **Achieved** | Microsoft |
+| **Enterprise Systems Administration (5+ Years Hands-on)** | ✅ **Mastered** | Enterprise Systems & IT Operations |
+| **Microsoft Certified: Azure Administrator Associate (AZ-104)** | 🎯 **In Progress** | Microsoft |
+| **HashiCorp Certified: Terraform Associate (003)** | 🎯 **In Progress** | HashiCorp |
+| **Microsoft Certified: DevOps Engineer Expert (AZ-400)** | ⏳ **Upcoming** | Microsoft |
+| **Certified Kubernetes Administrator (CKA)** | ⏳ **Upcoming** | Cloud Native Computing Foundation (CNCF) |
 
 ---
 
-### 🏆 GitHub Trophies & Analytics
+### 🏆 GitHub Stats & Analytics
 
 <div align="center">
+  <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=RaviMahadik07&theme=onedark&no-frame=true&margin-w=4" alt="Ravi's GitHub Trophies" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaviMahadik07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviMahadik07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <!-- Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RaviMahadik07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=0078D4&text_color=ffffff&icon_color=0078D4" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaviMahadik07&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviMahadik07&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
+<br/>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaviMahadik07&theme=tokyonight&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4" alt="GitHub Streak" width="97%" />
+</div>
 
 ---
 
-### 🤝 Get In Touch
+### 🤝 Connect & Collaborate
 
 <p align="center">
-  Looking to discuss <b>DevOps, Cloud Migrations, Terraform, or Enterprise Reliability</b>? Feel free to connect!
+  Looking for a <b>DevOps Engineer, Cloud Platform Engineer, or Infrastructure Automation Specialist</b> who brings real enterprise operations experience? Let's connect!
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/ravi-mahadik" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ravi_Mahadik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;&nbsp;
   <a href="mailto:ravi.mahadik07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-ravi.mahadik07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/RaviMahadik07">
     <img src="https://img.shields.io/badge/GitHub-RaviMahadik07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
